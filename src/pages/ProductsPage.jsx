@@ -208,7 +208,7 @@ const ProductsPage = () => {
               <Button size="lg">Hubungi Kami</Button>
             </div>
             <div>
-              <img  alt="Produk kustom BRICTION" className="rounded-lg shadow-xl" src="https://github.com/MOMON-5U5/foto-tas/blob/main/Briction_20240715_203327_0000.png?raw=true" />
+              <img  alt="Produk kustom BRICTION" className="rounded-lg shadow-xl" src="https://github.com/MOMON-5U5/foto-konten/blob/main/Briction%20Katalog/2.png?raw=true" />
             </div>
           </div>
         </motion.div>
