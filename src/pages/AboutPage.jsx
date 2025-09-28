@@ -64,7 +64,7 @@ const AboutPage = () => {
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.6 }}
           >
-            <img  alt="Tim BRICTION" className="rounded-lg shadow-xl" src="https://github.com/MOMON-5U5/foto-tas/blob/main/3.jpg?raw=true" />
+            <img  alt="Tim BRICTION" className="rounded-lg shadow-xl" src="https://github.com/MOMON-5U5/foto-konten/blob/main/01.jpg?raw=true" />
           </motion.div>
 
           <motion.div
@@ -149,7 +149,7 @@ const AboutPage = () => {
               animate={{ opacity: 1, x: 0 }}
               transition={{ duration: 0.6 }}
             >
-              <img  alt="Proses produksi BRICTION" className="rounded-lg shadow-xl" src="https://github.com/MOMON-5U5/foto-tas/blob/main/12.jpg?raw=true" />
+              <img  alt="Proses produksi BRICTION" className="rounded-lg shadow-xl" src="https://github.com/MOMON-5U5/foto-konten/blob/main/06.jpg?raw=true" />
             </motion.div>
           </div>
         </div>

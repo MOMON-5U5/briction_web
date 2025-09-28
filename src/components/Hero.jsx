@@ -41,7 +41,7 @@ const Hero = () => {
             className="relative"
           >
             <div className="relative rounded-lg overflow-hidden shadow-2xl">
-              <img  alt="Tas BRICTION dari kain jeans daur ulang" className="w-full h-auto rounded-lg" src="https://github.com/MOMON-5U5/foto-tas/blob/main/13.JPG?raw=true" />
+              <img  alt="Tas BRICTION dari kain jeans daur ulang" className="w-full h-auto rounded-lg" src="https://github.com/MOMON-5U5/foto-konten/blob/main/04.jpg?raw=true" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
               <div className="absolute bottom-0 left-0 right-0 p-6">
                 <p className="text-white font-medium text-lg">

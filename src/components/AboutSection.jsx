@@ -35,7 +35,7 @@ const AboutSection = () => {
             transition={{ duration: 0.6 }}
             viewport={{ once: true }}
           >
-            <img  alt="Proses pembuatan tas BRICTION" className="rounded-lg shadow-xl" src="https://github.com/MOMON-5U5/foto-tas/blob/main/20240721_161623.jpg?raw=true" />
+            <img  alt="Proses pembuatan tas BRICTION" className="rounded-lg shadow-xl" src="https://github.com/MOMON-5U5/foto-konten/blob/main/WhatsApp%20Image%202025-09-26%20at%2021.57.18_70075c7f.jpg?raw=true" />
           </motion.div>
 
           <motion.div

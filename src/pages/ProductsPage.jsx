@@ -12,51 +12,67 @@ const ProductsPage = () => {
   const products = [
     {
       id: 1,
-      name: "Eco Tote Bag",
-      category: "Tas Tote",
-      price: 249000,
-      description: "Tas tote serbaguna yang terbuat dari kain jeans daur ulang. Sempurna untuk kegiatan sehari-hari.",
-      imageUrl: "https://github.com/MOMON-5U5/foto-tas/blob/main/33_20240831_121139_0000%20-%20Copy.png?raw=true"
+      name: "Metro Quilt Crossbody",
+      category: "Tas Selempang",
+      price: 175000,
+      description: "partner andalan yang menyempurnakan gaya kasual Anda. Kami mengambil siluet tas selempang yang klasik dan memberinya nyawa baru dengan teknik jahit quilting yang modern.",
+      imageUrl: "https://github.com/MOMON-5U5/foto-konten/blob/main/Briction%20Katalog/4.png?raw=true"
     },
     {
       id: 2,
-      name: "Denim Backpack",
-      category: "Ransel",
-      price: 399000,
-      description: "Ransel stylish dengan kompartemen laptop yang terbuat dari jeans daur ulang premium.",
-      imageUrl: "https://github.com/MOMON-5U5/foto-tas/blob/main/34_20240831_121140_0001%20-%20Copy.png?raw=true"
+      name: "Midnight Bloom Tote",
+      category: "Tas Tote",
+      price: 200000,
+      description: "Kami menggabungkan romantisme desain ruffles dengan karakter denim hitam yang tak lekang oleh waktu, menciptakan sebuah tas yang sempurna untuk gaya Anda yang unik dan berlapis.",
+      imageUrl: "https://github.com/MOMON-5U5/foto-konten/blob/main/Briction%20Katalog/5.png?raw=true"
     },
     {
       id: 3,
-      name: "Messenger Bag",
-      category: "Tas Selempang",
-      price: 329000,
-      description: "Tas selempang yang nyaman dan tahan lama, sempurna untuk penggunaan sehari-hari.",
-      imageUrl: "https://github.com/MOMON-5U5/foto-tas/blob/main/35_20240831_121140_0002.png?raw=true"
+      name: "Bloom Shoulder Bag",
+      category: "Tas Tote",
+      price: 225000,
+      description: "Terinspirasi dari kelembutan kelopak bunga di pagi hari, Briction Bloom Shoulder Bag hadir untuk menambahkan sentuhan manis dan romantis pada penampilan Anda",
+      imageUrl: "https://github.com/MOMON-5U5/foto-konten/blob/main/Briction%20Katalog/7.png?raw=true"
     },
     {
       id: 4,
-      name: "Mini Crossbody",
-      category: "Tas Selempang",
-      price: 199000,
-      description: "Tas selempang mini yang compact namun memiliki ruang yang cukup untuk barang-barang penting.",
-      imageUrl: "https://github.com/MOMON-5U5/foto-tas/blob/main/36_20240831_121140_0003.png?raw=true"
+      name: "Wastra Tote",
+      category: "Tas Tote",
+      price: 250000,
+      description: "Sebuah mahakarya kekayaan budaya Indonesia dalam balutan denim modern. Tas ini bukan sekadar aksesori, melainkan sebuah narasi visual di mana setiap elemen bercerita.",
+      imageUrl: "https://github.com/MOMON-5U5/foto-konten/blob/main/Briction%20Katalog/10.png?raw=true"
     },
     {
       id: 5,
-      name: "Laptop Sleeve",
-      category: "Aksesoris",
-      price: 179000,
-      description: "Pelindung laptop yang terbuat dari jeans daur ulang dengan lapisan bantalan untuk perlindungan ekstra.",
-      imageUrl: "https://github.com/MOMON-5U5/foto-tas/blob/main/38_20240831_121140_0005.png?raw=true"
+      name: "Briction Orbit Pouch",
+      category: "Tas Travel",
+      price: 150000,
+      description: "Untuk hari-hari saat Anda ingin bergerak bebas hanya dengan barang terpenting, Briction Orbit Pouch adalah solusinya. Mengambil inspirasi dari gaya waist bag klasik,",
+      imageUrl: "https://github.com/MOMON-5U5/foto-konten/blob/main/Briction%20Katalog/14.png?raw=true"
     },
     {
       id: 6,
-      name: "Weekender Bag",
-      category: "Tas Travel",
-      price: 499000,
-      description: "Tas travel yang sempurna untuk perjalanan akhir pekan, dengan ruang yang cukup untuk semua kebutuhan Anda.",
-      imageUrl: "https://github.com/MOMON-5U5/foto-tas/blob/main/37_20240831_121140_0004.png?raw=true"
+      name: "Amara Quilt Bag",
+      category: "Tas Selempang",
+      price: 175000,
+      description: "Terinspirasi dari desain tas klasik yang selalu relevan, kami menghadirkannya dengan sentuhan modern dan napas keberlanjutan. Pola jahit quilted yang ikonik memberikan tekstur mewah",
+      imageUrl: "https://github.com/MOMON-5U5/foto-konten/blob/main/Briction%20Katalog/12.png?raw=true"
+    },
+    {
+      id: 7,
+      name: "Voyager Hobo",
+      category: "Tas Selempang",
+      price: 200000,
+      description: "Dengan siluet hobo yang santai namun tetap terstruktur, tas ini adalah definisi dari organizer yang sempurna. Dua saku kargo di bagian depan memberikan akses cepat untuk barang-barang esensial",
+      imageUrl: "https://github.com/MOMON-5U5/foto-konten/blob/main/Briction%20Katalog/1.png?raw=true"
+    },
+    {
+      id: 8,
+      name: "Luna Sling Bag",
+      category: "Tas Selempang",
+      price: 175000,
+      description: "perpaduan sempurna antara gaya modern dan kesadaran lingkungan. Dibuat dari helai demi helai denim daur ulang pilihan, tas berbentuk bulan sabit ini dirancang untuk Anda yang dinamis dan peduli.",
+      imageUrl: "https://github.com/MOMON-5U5/foto-konten/blob/main/Briction%20Katalog/16.png?raw=true"
     }
   ];
 
